@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499093730,
+	"version": 1499252306,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -78,6 +78,8 @@
 		"images/joazinhodaplataforma.png",
 		"images/condiçãodevitoria-sheet0.png",
 		"images/sprite-sheet0.png",
+		"images/botaonovo-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"media/celtic music - wolf blood.ogg",
 		"media/laser5.ogg",
 		"media/peder_b._helland_-_dance_of_life_(mp3.pm).ogg",
