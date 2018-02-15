@@ -9,7 +9,7 @@ __João Pedro, estudante de Programação de Jogos Digitais no IFRN - Ceará Mir
 ## Jogos desenvolvidos
 
 #### Balder
-[Balder] (https://bixcoito.github.io/Balder/)
+[![](Balder.png)](https://bixcoito.github.io/Balder/)
 
 #### Hybrid Child
 [Hybrid Child] (https://maathps.github.io/HC/)
