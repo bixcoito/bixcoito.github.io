@@ -12,7 +12,7 @@ __João Pedro, estudante de Programação de Jogos Digitais no IFRN - Ceará Mir
 [![](Balder.png)](https://bixcoito.github.io/Balder/)
 
 #### Hybrid Child
-[Hybrid Child] (https://maathps.github.io/HC/)
+[![](Hybrid Child.png)] (https://maathps.github.io/HC/)
 
 
 
