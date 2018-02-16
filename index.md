@@ -38,6 +38,11 @@ Orientadores: Marcelo Barros
 Orientadores: Videanny Videnov
 
 [![](FENECIT.png)](http://portal.ifrn.edu.br/campus/ceara-mirim/noticias/estudantes-do-campus-ceara-mirim-sao-premiados-em-feira-regional-de-ciencia-e-tecnologia)
+
+#### Projeto de Empreendedorismo - Projeto Gamificando o Ensino do Empreendedorismo nas Escolas Públicas de Ceara-Mirim
+Orientadores: Idelmarcia Dantas
+
+
 #### Legenda
 
 ** negrito
