@@ -5,7 +5,7 @@ layout: default
 
 __João Pedro, estudante de Programação de Jogos Digitais no IFRN - Ceará Mirim.__ 
 
-Contatos:
+Contatos:  
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-85441294/)  
 E-mail: pedro.pedro191@gmail.com  
 Instagran: @pedro_jones1
