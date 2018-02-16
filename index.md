@@ -42,13 +42,18 @@ Orientadores: Videanny Videnov
 #### Projeto de Empreendedorismo - Projeto Gamificando o Ensino do Empreendedorismo nas Escolas Públicas de Ceara-Mirim
 Orientadores: Idelmarcia Dantas
 
+## Trabalhos  
+
+[Tutorial Multi-idioma - Construct 2](https://drive.google.com/open?id=1xJXiLN-2qKVClKPrLnmwUOXI1nsXZThe)  
+Parceiros: Mychellangello Paula, Guilherme Égle
+
 
 #### Legenda
 
-** negrito
-_ itálico
-~~ riscado
-3* linha horizontal (barra)
-#s uma ou mais hashtags criam capitulos ou sub
-*s asteriscos criam lista não ordenada
-1s números criam lista ordenada
+** negrito  
+_ itálico  
+~~ riscado  
+3* linha horizontal (barra)  
+#s uma ou mais hashtags criam capitulos ou sub  
+*s asteriscos criam lista não ordenada  
+1s números criam lista ordenada  
