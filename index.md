@@ -18,6 +18,12 @@ __João Pedro, estudante de Programação de Jogos Digitais no IFRN - Ceará Mir
 [![](Pokemon.png)](https://bixcoito.github.io/Pokemon/)
 
 
+## Projetos Desenvolvidos
+
+#### Projeto Integrador (PI) - 
+
+#### Projeto Integrador (PI) - The Heart Beat
+[![](THB.png)](https://bixcoito.github.io/TheHeartBeat/)
 
 #### Legenda
 
