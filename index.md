@@ -20,8 +20,8 @@ __João Pedro, estudante de Programação de Jogos Digitais no IFRN - Ceará Mir
 
 ## Projetos Desenvolvidos
 
-#### Projeto Integrador (PI) - 
-
+#### Projeto Integrador (PI) - JOGOS DIGITAIS COMO FONTE DE CONHECIMENTO DA CULTURA BUDISTA: EM FOCO O NIRVANA
+[![](ban.png)](https://drive.google.com/open?id=0ByTqdVG3Df99LVRmdm84aVJxa1h6TTBXWTJFM2V0bWJBc2Nz)
 #### Projeto Integrador (PI) - The Heart Beat
 [![](THB.png)](https://bixcoito.github.io/TheHeartBeat/)
 
