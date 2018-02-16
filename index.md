@@ -25,6 +25,7 @@ Orientadores: Daniela Beny e Miguel Pereira
 [![](ban.png)](https://drive.google.com/open?id=0ByTqdVG3Df99LVRmdm84aVJxa1h6TTBXWTJFM2V0bWJBc2Nz)
 
 #### Projeto Integrador (PI) - The Heart Beat
+Orientadores: Marcelo Barros
 [![](THB.png)](https://bixcoito.github.io/TheHeartBeat/)
 
 #### Legenda
