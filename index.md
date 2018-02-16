@@ -34,6 +34,10 @@ Orientadores: Marcelo Barros
 
 [![](THB.png)](https://bixcoito.github.io/TheHeartBeat/)
 
+#### Projeto de Biologia - Gameterapia: uma forma de unir jogos digitais à reabilitação de pacientes acometidos pelo acidente vascular encefálico (AVE)
+Orientadores: Videanny Videnov
+
+[![](FENECIT.png)](http://portal.ifrn.edu.br/campus/ceara-mirim/noticias/estudantes-do-campus-ceara-mirim-sao-premiados-em-feira-regional-de-ciencia-e-tecnologia)
 #### Legenda
 
 ** negrito
