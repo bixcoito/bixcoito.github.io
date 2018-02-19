@@ -48,7 +48,7 @@ Orientadores: Idelmarcia Dantas
 Parceiros: Mychellangello Paula, Guilherme Égle  
 
 Influence Map  
-[![](Influence.jpg)(https://drive.google.com/open?id=1u5F0MLsrunf3Bd5i1-Z7_ZiL-8P2HtQo)
+[![](Influence.jpg)](https://drive.google.com/open?id=1u5F0MLsrunf3Bd5i1-Z7_ZiL-8P2HtQo)
 
 
 #### Legenda
