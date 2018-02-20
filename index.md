@@ -47,6 +47,9 @@ Orientadores: Idelmarcia Dantas
 [Tutorial Multi-idioma - Construct 2](https://drive.google.com/open?id=1xJXiLN-2qKVClKPrLnmwUOXI1nsXZThe)  
 Parceiros: Mychellangello Paula, Guilherme Égle  
 
+[Video Karatê](https://drive.google.com/open?id=0ByTqdVG3Df99SGhfbUZQNXg2OEk)  
+Parceiros:Tailson Ferreira, Arnobio Duarte 
+
 Influence Map  
 [![](Influence.jpg)](https://drive.google.com/open?id=1u5F0MLsrunf3Bd5i1-Z7_ZiL-8P2HtQo)
 
