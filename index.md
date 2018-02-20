@@ -49,7 +49,7 @@ Parceiros: Mychellangello Paula, Guilherme Égle
 Disciplina: Motor de Jogos II
 
 [Video Karatê](https://drive.google.com/open?id=0ByTqdVG3Df99SGhfbUZQNXg2OEk)  
-Parceiros:Tailson Ferreira, Arnobio Duarte 
+Parceiros:Tailson Ferreira, Arnobio Duarte  
 Disciplina: Educação física  
 
 [Código C++ - Calculadora de Matrizes](https://drive.google.com/open?id=1absEUJ6C_xEygQxmqlB-d5spK6Ke3FUe)  
