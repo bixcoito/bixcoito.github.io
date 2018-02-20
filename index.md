@@ -60,6 +60,7 @@ Influence Map
 Disciplina: Motor de Jogos II
 [![](Influence.jpg)](https://drive.google.com/open?id=1u5F0MLsrunf3Bd5i1-Z7_ZiL-8P2HtQo)
 
+![](xuso.gif)
 
 ## Releituras  
 
