@@ -53,7 +53,7 @@ Influence Map
 ## Releituras  
 Inspiração: Poster do Filme Avatar  
 ![](Avatar.jpg)  
-Inspiração: Poster do Filme Edward Mãos de Tesoura
+Inspiração: Poster do Filme Edward Mãos de Tesoura  
 ![](Edward.jpg) 
 
 #### Legenda
