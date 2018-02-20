@@ -52,7 +52,7 @@ Disciplina: Motor de Jogos II
 Parceiros:Tailson Ferreira, Arnobio Duarte 
 Disciplina: Educação física  
 
-[Código C++ - Calculadora de Matrizes](https://drive.google.com/open?id=1absEUJ6C_xEygQxmqlB-d5spK6Ke3FUe) 
+[Código C++ - Calculadora de Matrizes](https://drive.google.com/open?id=1absEUJ6C_xEygQxmqlB-d5spK6Ke3FUe)  
 Parceiros: Marcelo Augusto, Mychellangello de Paula, Tailson Ferreira  
 Disciplina: Matemática  
 
