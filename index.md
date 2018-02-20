@@ -50,14 +50,14 @@ Disciplina: Motor de Jogos II
 
 [Video Karatê](https://drive.google.com/open?id=0ByTqdVG3Df99SGhfbUZQNXg2OEk)  
 Parceiros:Tailson Ferreira, Arnobio Duarte 
-Disciplina: Educação física
+Disciplina: Educação física  
+
+[Código C++ - Calculadora de Matrizes](https://drive.google.com/open?id=1absEUJ6C_xEygQxmqlB-d5spK6Ke3FUe)  
+Disciplina: Matemática  
 
 Influence Map  
 Disciplina: Motor de Jogos II
 [![](Influence.jpg)](https://drive.google.com/open?id=1u5F0MLsrunf3Bd5i1-Z7_ZiL-8P2HtQo)
-
-[Código C++ - Calculadora de Matrizes](https://drive.google.com/open?id=1absEUJ6C_xEygQxmqlB-d5spK6Ke3FUe)
-Disciplina: Matemática
 
 
 ## Releituras  
