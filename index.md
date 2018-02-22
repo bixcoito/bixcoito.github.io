@@ -9,7 +9,7 @@ Contatos:
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-85441294/)  
 E-mail: pedro.pedro191@gmail.com  
 Instagran: @pedro_jones1  
-***
+*** 
 
 ## Jogos desenvolvidos
 
@@ -24,7 +24,7 @@ Parceiro: [Matheus Costa](https://mychellangello.github.io/)
 #### Pokemon vs Humanos  
 Parceiro: [Emmanuele e Matheus Ricardo](https://mychellangello.github.io/)  
 [![](Pokemon.png)](https://bixcoito.github.io/Pokemon/)  
-***
+*** 
 
 ## Projetos Desenvolvidos
 
@@ -45,7 +45,7 @@ Orientadores: Videanny Videnov
 
 #### Projeto de Empreendedorismo - Projeto Gamificando o Ensino do Empreendedorismo nas Escolas Públicas de Ceara-Mirim
 Orientadores: Idelmarcia Dantas
-***
+ *** 
 
 ## Trabalhos  
 
@@ -80,4 +80,5 @@ Inspiração: Poster do Filme Avatar
 Inspiração: Poster do Filme Edward Mãos de Tesoura  
 
 ![](Edward.jpg) 
-***
+
+ ***
