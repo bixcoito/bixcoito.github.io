@@ -10,6 +10,7 @@ Contatos:
 E-mail: pedro.pedro191@gmail.com  
 Instagran: @pedro_jones1
 
+
 ## Jogos desenvolvidos
 
 #### Balder
@@ -42,6 +43,7 @@ Orientadores: Videanny Videnov
 #### Projeto de Empreendedorismo - Projeto Gamificando o Ensino do Empreendedorismo nas Escolas Públicas de Ceara-Mirim
 Orientadores: Idelmarcia Dantas
 
+
 ## Trabalhos  
 
 [Tutorial Multi-idioma - Construct 2](https://drive.google.com/open?id=1xJXiLN-2qKVClKPrLnmwUOXI1nsXZThe)  
@@ -56,11 +58,15 @@ Disciplina: Educação física
 Parceiros: Marcelo Augusto, Mychellangello de Paula, Tailson Ferreira  
 Disciplina: Matemática  
 
+Animation  
+Parceiros: Matheus Costa  
+Disciplina: Oficina de Criação  
+![](xuso.gif)  
+
 Influence Map  
-Disciplina: Motor de Jogos II
+Disciplina: Motor de Jogos II  
 [![](Influence.jpg)](https://drive.google.com/open?id=1u5F0MLsrunf3Bd5i1-Z7_ZiL-8P2HtQo)
 
-![](xuso.gif)
 
 ## Releituras  
 
@@ -71,6 +77,7 @@ Inspiração: Poster do Filme Avatar
 Inspiração: Poster do Filme Edward Mãos de Tesoura  
 
 ![](Edward.jpg) 
+
 
 #### Legenda
 
