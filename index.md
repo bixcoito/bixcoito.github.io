@@ -23,7 +23,7 @@ Parceiro: [Matheus Costa](https://mychellangello.github.io/)
 [![](HC.png)](https://maathps.github.io/HC/)
 
 #### Pokemon vs Humanos  
-Parceiro: [Emmanuele e Matheus Ricardo](https://mychellangello.github.io/)  
+Parceiro: Emmanuele e Matheus Ricardo
 [![](Pokemon.png)](https://bixcoito.github.io/Pokemon/)  
 
 *** 
