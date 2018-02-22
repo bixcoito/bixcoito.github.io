@@ -19,7 +19,7 @@ Parceiro: [Mychellangello](https://mychellangello.github.io/)
 [![](Balder.png)](https://bixcoito.github.io/Balder/)
 
 #### Hybrid Child  
-Parceiro: [Matheus Costa](https://mychellangello.github.io/)  
+Parceiro: Matheus Costa
 [![](HC.png)](https://maathps.github.io/HC/)
 
 #### Pokemon vs Humanos  
