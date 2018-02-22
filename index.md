@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Portifólio de Jogos Digitais
+# Portifólio de Jogos Digitais  
 
 __João Pedro, estudante de Programação de Jogos Digitais no IFRN - Ceará Mirim.__ 
 
