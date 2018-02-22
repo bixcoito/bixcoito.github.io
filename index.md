@@ -81,13 +81,3 @@ Inspiração: Poster do Filme Edward Mãos de Tesoura
 
 ![](Edward.jpg) 
 ***
-
-#### Legenda
-
-** negrito  
-_ itálico  
-~~ riscado  
-3* linha horizontal (barra)  
-#s uma ou mais hashtags criam capitulos ou sub  
-*s asteriscos criam lista não ordenada  
-1s números criam lista ordenada  
