@@ -13,13 +13,16 @@ Instagran: @pedro_jones1
 
 ## Jogos desenvolvidos
 
-#### Balder
+#### Balder  
+Parceiro: [Mychellangello](https://mychellangello.github.io/)  
 [![](Balder.png)](https://bixcoito.github.io/Balder/)
 
-#### Hybrid Child
+#### Hybrid Child  
+Parceiro: [Matheus Costa](https://mychellangello.github.io/)  
 [![](HC.png)](https://maathps.github.io/HC/)
 
-#### Pokemon vs Humanos
+#### Pokemon vs Humanos  
+Parceiro: [Emmanuele e Matheus Ricardo](https://mychellangello.github.io/)  
 [![](Pokemon.png)](https://bixcoito.github.io/Pokemon/)  
 
 
