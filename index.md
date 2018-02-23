@@ -71,6 +71,7 @@ Disciplina: Oficina de Criação
 
 Mockup
 Parceiros: [Felipe Castro](felipecastroifrn.github.io)  
+Disciplina: Oficina de Criação  
 [![](Mockup.PNG)](https://youtu.be/JJ0BsNyMoF0)  
 
 Influence Map  
