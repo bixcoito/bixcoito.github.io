@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1532501053,
+	"version": 1532501589,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,7 +31,7 @@
 		"images/bstore-sheet0.png",
 		"images/bstore-sheet1.png",
 		"images/emoticonqualidade-sheet0.png",
-		"images/sprite5-sheet0.png",
+		"images/bquest-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
