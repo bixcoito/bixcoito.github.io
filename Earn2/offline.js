@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1532634967,
+	"version": 1532636960,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,14 @@
 		"images/mudardirec-sheet0.png",
 		"images/cliente2-sheet0.png",
 		"images/cliente3-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/barraqualidade-sheet0.png",
+		"images/sprite8-sheet0.png",
+		"images/sprite8-sheet1.png",
+		"images/sprite9-sheet0.png",
+		"images/sprite10-sheet0.png",
+		"images/sprite10-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
