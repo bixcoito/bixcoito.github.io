@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1532501589,
+	"version": 1532631260,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,7 +12,6 @@
 		"images/bback-sheet0.png",
 		"images/spersonagem-sheet0.png",
 		"images/buttonlevel-sheet0.png",
-		"images/buttonlevel-sheet1.png",
 		"images/iconchocolate-sheet0.png",
 		"images/iconcoin-sheet0.png",
 		"images/spritefont.png",
@@ -32,11 +31,15 @@
 		"images/bstore-sheet1.png",
 		"images/emoticonqualidade-sheet0.png",
 		"images/bquest-sheet0.png",
+		"images/clientes-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/sprite5-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"quest.xml"
 	]
 }
