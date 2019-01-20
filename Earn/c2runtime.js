@@ -25148,45 +25148,6 @@ cr.behaviors.bound = function(runtime)
 }());
 ;
 ;
-cr.behaviors.destroy = function(runtime)
-{
-	this.runtime = runtime;
-};
-(function ()
-{
-	var behaviorProto = cr.behaviors.destroy.prototype;
-	behaviorProto.Type = function(behavior, objtype)
-	{
-		this.behavior = behavior;
-		this.objtype = objtype;
-		this.runtime = behavior.runtime;
-	};
-	var behtypeProto = behaviorProto.Type.prototype;
-	behtypeProto.onCreate = function()
-	{
-	};
-	behaviorProto.Instance = function(type, inst)
-	{
-		this.type = type;
-		this.behavior = type.behavior;
-		this.inst = inst;				// associated object instance to modify
-		this.runtime = type.runtime;
-	};
-	var behinstProto = behaviorProto.Instance.prototype;
-	behinstProto.onCreate = function()
-	{
-	};
-	behinstProto.tick = function ()
-	{
-		this.inst.update_bbox();
-		var bbox = this.inst.bbox;
-		var layout = this.inst.layer.layout;
-		if (bbox.right < 0 || bbox.bottom < 0 || bbox.left > layout.width || bbox.top > layout.height)
-			this.runtime.DestroyInstance(this.inst);
-	};
-}());
-;
-;
 cr.behaviors.solid = function(runtime)
 {
 	this.runtime = runtime;
@@ -25236,24 +25197,28 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.Button,
 	cr.plugins_.Function,
-	cr.plugins_.Particles,
 	cr.plugins_.Mouse,
+	cr.plugins_.Particles,
+	cr.plugins_.Touch,
 	cr.plugins_.Sprite,
 	cr.plugins_.sliderbar,
-	cr.plugins_.Touch,
 	cr.plugins_.Text,
 	cr.behaviors.Sin,
 	cr.behaviors.DragnDrop,
 	cr.behaviors.bound,
 	cr.behaviors.Pin,
-	cr.behaviors.destroy,
-	cr.behaviors.Platform,
 	cr.behaviors.LOS,
 	cr.behaviors.solid,
+	cr.behaviors.Platform,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.system_object.prototype.acts.SetVar,
 	cr.system_object.prototype.cnds.IsGroupActive,
+	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
+	cr.system_object.prototype.cnds.CompareVar,
+	cr.system_object.prototype.acts.CreateObject,
+	cr.plugins_.Sprite.prototype.exps.X,
+	cr.plugins_.Sprite.prototype.exps.Y,
 	cr.plugins_.Sprite.prototype.cnds.IsOverlapping,
 	cr.plugins_.Sprite.prototype.acts.SetAnimFrame,
 	cr.system_object.prototype.cnds.Else,
@@ -25265,11 +25230,9 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.cnds.CompareInstanceVar,
 	cr.plugins_.Sprite.prototype.cnds.OnDestroyed,
 	cr.system_object.prototype.acts.AddVar,
-	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
-	cr.system_object.prototype.cnds.CompareVar,
-	cr.system_object.prototype.acts.CreateObject,
-	cr.plugins_.Sprite.prototype.exps.X,
-	cr.plugins_.Sprite.prototype.exps.Y,
+	cr.plugins_.Sprite.prototype.cnds.IsBoolInstanceVarSet,
+	cr.plugins_.Sprite.prototype.acts.SetX,
+	cr.system_object.prototype.exps.lerp,
 	cr.plugins_.Touch.prototype.cnds.IsInTouch,
 	cr.system_object.prototype.cnds.EveryTick,
 	cr.plugins_.Sprite.prototype.acts.SetPos,
@@ -25277,9 +25240,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Mouse.prototype.exps.Y,
 	cr.system_object.prototype.acts.Wait,
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
-	cr.plugins_.Sprite.prototype.cnds.IsBoolInstanceVarSet,
-	cr.plugins_.Sprite.prototype.acts.SetX,
-	cr.system_object.prototype.exps.lerp,
 	cr.plugins_.Sprite.prototype.cnds.CompareWidth,
 	cr.system_object.prototype.acts.SetTimescale,
 	cr.plugins_.Sprite.prototype.cnds.OnCollision,
@@ -25294,6 +25254,8 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.Platform.prototype.acts.SimulateControl,
 	cr.behaviors.Platform.prototype.acts.SetEnabled,
 	cr.system_object.prototype.acts.GoToLayout,
+	cr.plugins_.Sprite.prototype.cnds.IsAnimPlaying,
+	cr.plugins_.Sprite.prototype.exps.AnimationFrame,
 	cr.plugins_.Particles.prototype.acts.Destroy,
 	cr.system_object.prototype.acts.SetGroupActive,
 	cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
@@ -25301,7 +25263,6 @@ cr.getObjectRefTable = function () { return [
 	cr.behaviors.DragnDrop.prototype.cnds.IsDragging,
 	cr.plugins_.Touch.prototype.exps.X,
 	cr.plugins_.Touch.prototype.exps.Y,
-	cr.plugins_.Sprite.prototype.cnds.IsAnimPlaying,
 	cr.plugins_.Sprite.prototype.acts.AddInstanceVar,
 	cr.plugins_.Button.prototype.acts.SetText,
 	cr.plugins_.Button.prototype.acts.SetChecked,
@@ -25313,9 +25274,10 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Touch.prototype.cnds.OnTouchStart,
 	cr.plugins_.Sprite.prototype.acts.RotateClockwise,
 	cr.behaviors.DragnDrop.prototype.cnds.OnDrop,
+	cr.plugins_.Sprite.prototype.acts.SetSize,
 	cr.plugins_.Mouse.prototype.cnds.IsOverObject,
 	cr.plugins_.Sprite.prototype.acts.SetScale,
-	cr.plugins_.sliderbar.prototype.cnds.CompareValue,
+	cr.system_object.prototype.acts.SetLayerVisible,
 	cr.plugins_.Audio.prototype.acts.Play,
 	cr.plugins_.Sprite.prototype.acts.StartAnim,
 	cr.plugins_.Sprite.prototype.cnds.OnAnimFinished
